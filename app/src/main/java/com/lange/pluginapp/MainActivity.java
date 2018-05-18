@@ -7,7 +7,6 @@ import android.widget.Toast;
 import com.lange.pluginlib.IShowString;
 
 public class MainActivity extends AppCompatActivity {
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
